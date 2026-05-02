@@ -11,7 +11,7 @@ To overcome this, a **biomechanical rule-based system using pose estimation** wa
 
 ## Demo Video
 
-https://github.com/your-username/injury-risk-detection/assets/demo-video.mp4
+demo.mp4
 
 
 ---
