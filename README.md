@@ -8,7 +8,16 @@ Initially, multiple machine learning models were trained to predict injury risk,
 To overcome this, a **biomechanical rule-based system using pose estimation** was implemented, providing more reliable and interpretable results.
 
 ---
+## Output Screenshots
 
+### 🟢 Low Risk
+![Low Risk](low_risk.png)
+
+### 🟡 Medium Risk
+![Medium Risk](medium_risk.png)
+
+### 🔴 High Risk
+![High Risk](high_risk.png)
 ## Demo Video
 
 demo.mp4
